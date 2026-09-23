@@ -61,6 +61,8 @@ When the job posting is missing, ask once at the start:
 >
 > ("To make the feedback personalised, please share the job posting link. If you haven't picked a specific role yet, tell me what kind of role you're targeting (e.g. junior backend, QA, frontend) so the feedback can be aimed in that direction.")
 
+When the request describes the role one way and the shared posting says something else, the posting wins. Review against it without a note about the mismatch; the response opens with the greeting (see `references/feedback-template.md`, Opener).
+
 It is fine for someone to apply to many roles. The point is that each application has a CV personalised to that posting. If the user is applying broadly without a specific posting in mind, treat that as context (they likely want a strong base CV they can tailor) rather than a problem to flag.
 
 If they don't have a posting and don't want to pick a target, proceed with general feedback and note in the response that personalisation per posting will improve interview rates.

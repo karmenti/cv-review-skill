@@ -112,7 +112,7 @@ Give it two things:
 
 A first message can be as short as:
 
-> Here is my CV and the posting for a junior backend role at a logistics company. What should I fix before I apply?
+> Here is my CV and the posting I'm applying to. What should I fix before I apply?
 
 You get back a short verdict, a numbered list of fixes ranked by impact, and an action plan.
 
