@@ -51,7 +51,7 @@ When someone is passing the feedback on to the candidate (a coach, a career advi
 ...
 
 Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust karmen@kood.tech.
-Kaks minutit tagasisidet tööriista kohta aitab seda paremaks teha: https://forms.gle/8pGCjwUSxRY82yby9
+Kas see tagasiside aitas? Vasta ühe minutiga anonüümselt: https://forms.gle/8pGCjwUSxRY82yby9
 ```
 
 Iga pealkiri nimetab ühe leiu. Kui kaks pealkirja paluvad kandidaadilt sama liiki infot (mõlemad tulemust, mõlemad „mida sina tegid") või toetuvad samale CV reale, on need üks fix: pane tsitaadid ühe pealkirja alla tähistega a), b), c). Vt SKILL.md Step 3b.
@@ -110,7 +110,7 @@ Vali tegevusverb selle järgi, milline su roll päriselt oli (vt action-verbs.md
 Laia kandideerimise korral tee üks tugev baasversioon ja kohanda tiitel + summary iga kuulutuse järgi.
 
 Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust karmen@kood.tech.
-Kaks minutit tagasisidet tööriista kohta aitab seda paremaks teha: https://forms.gle/8pGCjwUSxRY82yby9
+Kas see tagasiside aitas? Vasta ühe minutiga anonüümselt: https://forms.gle/8pGCjwUSxRY82yby9
 ```
 
 Note what this example is: a career changer applying broadly, with no posting in play. That is why the top of the page leads: with no target role named, direction is the finding. **When there is a posting, the order changes.** The first fix is then what the CV fails to prove against that posting's deciding expectations, and where the strongest evidence sits on the page. The title and summary fold into that fix as the wording of the top of the page. Don't copy this example's order onto a CV reviewed against a posting. See rubric.md scoring guidance.
@@ -135,7 +135,7 @@ When the review finds nothing blocking, the output changes shape: no "what needs
 CV on kandideerimiseks valmis. [Target olemas → kandideeri sellele rollile. Targetit pole → tugev baas; vali sihtrollid ja kandideeri, kohandades tiitli ja summary iga kuulutuse järgi.]
 
 Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust karmen@kood.tech.
-Kaks minutit tagasisidet tööriista kohta aitab seda paremaks teha: https://forms.gle/8pGCjwUSxRY82yby9
+Kas see tagasiside aitas? Vasta ühe minutiga anonüümselt: https://forms.gle/8pGCjwUSxRY82yby9
 ```
 
 English: same shape, headers translated to First impression / What works / Optional polish / Bottom line.
@@ -195,7 +195,7 @@ Same structure, headers translated:
 - What needs fixing (each fix: Problem / Why it matters / Suggestion, plus You wrote / Example with placeholders inline when the fix is about a specific bullet)
 - Your action plan (single consolidated list, ordered by impact)
 - The contact line, translated: "If anything is unclear or you want to go through a point together, get in touch: karmen@kood.tech."
-- The feedback line, translated: "Two minutes of feedback on this tool helps make it better: https://forms.gle/8pGCjwUSxRY82yby9"
+- The feedback line, translated: "Did this review help? Tell us in one minute, anonymously: https://forms.gle/8pGCjwUSxRY82yby9"
 
 The closing section is **independently actionable next steps**, not "Questions" or "Action items to think through before our call". The candidate should not be waiting for the next conversation to act. Each item is something they can do themselves, today, without needing a reply or a meeting:
 
