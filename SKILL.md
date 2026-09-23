@@ -178,13 +178,16 @@ Don't split into two lists ("Top priorities" + "Next steps") that overlap; one c
 
 Each item is independently actionable: something the candidate can do today without waiting for a reply or a call. Avoid ending on questions.
 
-**Close with one contact line, when you have an address to give.** After the action plan, add a single line telling the candidate where to take questions, in the language of the feedback. It is the last line of the response and the only closing footer allowed; it never grows into meta-commentary about future rounds.
+**Close with a short footer: a contact line when you have an address, and the feedback line always.** After the action plan, in the language of the feedback:
 
-The address is deliberately not stored in this file. Take it from whoever is running the review: their own instructions (a CLAUDE.md, AGENTS.md or similar file), the application that called you, or the request itself. Without an address, drop the line and end on the action plan. Never guess an address or fill in a plausible one.
-- *ET:* "Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust <kontaktaadress>."
-- *EN:* "If anything is unclear or you want to go through a point together, get in touch: <contact address>."
+1. One line telling the candidate where to take questions. The address is deliberately not stored in this file. Take it from whoever is running the review: their own instructions (a CLAUDE.md, AGENTS.md or similar file), the application that called you, or the request itself. Without an address, drop this line. Never guess an address or fill in a plausible one.
+   - *ET:* "Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust <kontaktaadress>."
+   - *EN:* "If anything is unclear or you want to go through a point together, get in touch: <contact address>."
+2. One line inviting feedback on the tool itself. This line is fixed and always present; the link opens a two-minute form run by the skill's author, and it asks about the review, not about the candidate.
+   - *ET:* "Kaks minutit tagasisidet tööriista kohta aitab seda paremaks teha: https://forms.gle/8pGCjwUSxRY82yby9"
+   - *EN:* "Two minutes of feedback on this tool helps make it better: https://forms.gle/8pGCjwUSxRY82yby9"
 
-The same line closes a green-light response, after the bottom line.
+These are the last lines of the response and the only closing footer allowed; they never grow into meta-commentary about future rounds. The same footer closes a green-light response, after the bottom line.
 
 If the CV has no blocking problems, there is no action plan. See "When the CV is already strong" below.
 
@@ -257,6 +260,7 @@ When you don't know which channel: assume long-form unless the user mentions Dis
 ...
 
 Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust <kontaktaadress>.
+Kaks minutit tagasisidet tööriista kohta aitab seda paremaks teha: https://forms.gle/8pGCjwUSxRY82yby9
 ```
 
 For English responses, translate the headers but keep the structure.

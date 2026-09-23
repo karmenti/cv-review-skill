@@ -120,6 +120,8 @@ The feedback comes in the language your CV is written in. The skill is tested in
 
 **Your data.** The skill stores nothing and sends nothing anywhere. Your CV goes to whichever AI tool you run it in, under that tool's privacy terms, same as any other chat.
 
+**Feedback.** Every review ends with a link to a two-minute form about the tool itself. It asks how the review worked for you, not for your CV, and the answers go to the skill's author to improve it.
+
 ## Which model to use
 
 Pick the strongest model your plan offers and turn on extended thinking if the tool has that setting. In our testing, Claude Opus gives consistently good reviews.
