@@ -20,18 +20,13 @@ Pick the tool you use.
 
 Works on every plan, including Free.
 
-1. Download the repo as a ZIP: https://github.com/karmenti/cv-review-skill/archive/refs/heads/main.zip
-2. Unzip it. You get a folder called `cv-review-skill-main`.
-3. Rename that folder to `cv-review`. The name has to match exactly.
-4. Zip the `cv-review` folder again. The zip must contain the folder, with `SKILL.md` inside it:
-   ```
-   cv-review.zip
-   └── cv-review/
-       ├── SKILL.md
-       └── references/
-   ```
-5. In Claude, open **Settings > Capabilities** and turn on code execution. Skills need it.
-6. Open **Customize > Skills**, click **+**, choose **Upload a skill**, and pick `cv-review.zip`.
+1. Download **[cv-review.zip](https://github.com/karmenti/cv-review-skill/releases/latest/download/cv-review.zip)**. Keep it zipped.
+2. In Claude, open **Settings > Capabilities** and turn on **Code execution and file creation**. Skills need it.
+3. Open **Customize > Skills**, click **+**, then **Create skill**, then **Upload a skill**, and pick `cv-review.zip`.
+
+That's it. Start a new chat and share your CV.
+
+Use the zip from the link above, not GitHub's green **Code > Download ZIP** button. That one has a folder called `cv-review-skill-main` inside, and Claude needs the folder name to match the skill's name, `cv-review`.
 
 ### Claude Code
 
@@ -60,17 +55,45 @@ git clone https://github.com/karmenti/cv-review-skill.git "$HOME/.claude/skills/
 
 </details>
 
-### Codex
+### Codex, Cursor, Gemini CLI, GitHub Copilot and others
+
+Open a terminal and run:
 
 ```
-git clone https://github.com/karmenti/cv-review-skill.git ~/.agents/skills/cv-review
+npx skills add karmenti/cv-review-skill -g
 ```
 
-Start a review with `$cv-review`, or share your CV and ask for feedback.
+It detects which coding agents you have and installs the skill for them. If it asks you anything, the suggested answers are fine. `-g` installs it for your user account, so it works in every project. Restart your agent afterwards so it picks up the new skill.
 
-### Cursor, Gemini CLI, GitHub Copilot and others
+This needs [Node.js](https://nodejs.org) 22.20 or newer. Run `node --version` to check.
 
-These tools read the same [Agent Skills](https://agentskills.io) format, so the folder works unchanged. Each tool keeps skills in its own directory; check its docs for the path.
+<details>
+<summary>No Node.js? Use git instead.</summary>
+
+Codex, Cursor, Gemini CLI and GitHub Copilot all read skills from `~/.agents/skills`, so one clone covers all of them:
+
+```
+git clone https://github.com/karmenti/cv-review-skill.git "$HOME/.agents/skills/cv-review"
+```
+
+On Windows, run it in PowerShell or Git Bash. Claude Code doesn't read this folder; use the [Claude Code steps](#claude-code) for it.
+
+Gemini CLI also has its own installer:
+
+```
+gemini skills install https://github.com/karmenti/cv-review-skill.git
+```
+
+</details>
+
+To start a review, share your CV and ask for feedback. To call the skill by name:
+
+| Tool | Type |
+|---|---|
+| Codex | `$cv-review` |
+| Cursor | `/` in Agent chat, then pick `cv-review` |
+| GitHub Copilot | Just ask; Copilot picks the skill up on its own. |
+| Gemini CLI | Just ask. `/skills list` shows whether it's installed. |
 
 ### Any other AI chat
 
@@ -78,7 +101,7 @@ Open `SKILL.md`, copy its contents into the chat, attach your CV, and ask for a 
 
 ### Updating
 
-If you installed it as a Claude Code plugin, run `/plugin marketplace update cv-review-skill` and then `/plugin update cv-review@cv-review-skill`. If you installed with `git clone`, run `git pull` inside the skill folder. If you uploaded a zip, repeat the steps above with a fresh download.
+If you installed it as a Claude Code plugin, run `/plugin marketplace update cv-review-skill` and then `/plugin update cv-review@cv-review-skill`. If you installed with `npx skills`, run `npx skills update cv-review -g`. If you installed with `git clone`, run `git pull` inside the skill folder. If you uploaded a zip, repeat the steps above with a fresh download.
 
 ## How to use it
 

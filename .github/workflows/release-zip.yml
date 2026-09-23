@@ -1,0 +1,53 @@
+name: Build skill zip
+
+# Packs the skill as cv-review.zip (a cv-review/ folder with SKILL.md inside)
+# and publishes it as a release, so Claude.ai users can upload it without
+# unzipping, renaming or re-zipping anything. The README links to:
+# https://github.com/karmenti/cv-review-skill/releases/latest/download/cv-review.zip
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - SKILL.md
+      - references/**
+      - LICENSE
+      - .github/workflows/release-zip.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-zip
+  cancel-in-progress: false
+
+jobs:
+  zip:
+    runs-on: ubuntu-latest
+    env:
+      TAG: skill-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Build cv-review.zip
+        run: |
+          mkdir -p dist/cv-review
+          cp -R SKILL.md LICENSE references dist/cv-review/
+          cd dist
+          zip -r -X cv-review.zip cv-review
+          unzip -l cv-review.zip
+
+      # One rolling release: delete the previous one and recreate it on this
+      # commit, so the tag and the zip always match the latest skill text.
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release delete "$TAG" --repo "$GITHUB_REPOSITORY" --cleanup-tag --yes || true
+          gh release create "$TAG" dist/cv-review.zip \
+            --repo "$GITHUB_REPOSITORY" \
+            --target "$GITHUB_SHA" \
+            --latest \
+            --title "cv-review skill (latest)" \
+            --notes "Download cv-review.zip below and upload it in Claude under Customize > Skills. See the README for step-by-step instructions. Built from ${GITHUB_SHA::7}."
