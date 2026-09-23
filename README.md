@@ -1,4 +1,4 @@
-# cv-review
+# CV review skill
 
 A Claude skill that reads a CV like Karmen and includes insights from other tech recruiters.
 
