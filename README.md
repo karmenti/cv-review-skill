@@ -122,7 +122,7 @@ The feedback comes in the language your CV is written in. The skill is tested in
 
 ## Which model to use
 
-Pick the strongest model your plan offers and turn on extended thinking if the tool has that setting. In our testing, Claude Opus gives consistently good reviews.
+Pick the strongest model your plan offers. If the tool lets you set the effort level, medium is enough; you don't need the maximum. In our testing, Claude Opus gives consistently good reviews.
 
 A faster, lighter model still works. Its review tends to be longer and flatter, with every point at the same weight, so you have to decide yourself what matters most.
 
