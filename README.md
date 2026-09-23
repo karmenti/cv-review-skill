@@ -35,11 +35,30 @@ Works on every plan, including Free.
 
 ### Claude Code
 
+Type these two commands into Claude Code, one at a time:
+
 ```
-git clone https://github.com/karmenti/cv-review-skill.git ~/.claude/skills/cv-review
+/plugin marketplace add karmenti/cv-review-skill
 ```
 
-Type `/skills` to check that `cv-review` is in the list. You can start a review with `/cv-review` or just share your CV and ask for feedback.
+```
+/plugin install cv-review@cv-review-skill
+```
+
+The first tells Claude Code where to find the skill. The second installs it. If the skill doesn't show up right away, restart Claude Code.
+
+To check it worked, type `/cv-review` and look for it in the suggestions. You can start a review that way, or just share your CV and ask for feedback.
+
+<details>
+<summary>Prefer a plain folder instead of a plugin?</summary>
+
+Clone the repo into your personal skills folder:
+
+```
+git clone https://github.com/karmenti/cv-review-skill.git "$HOME/.claude/skills/cv-review"
+```
+
+</details>
 
 ### Codex
 
@@ -59,7 +78,7 @@ Open `SKILL.md`, copy its contents into the chat, attach your CV, and ask for a 
 
 ### Updating
 
-If you installed with `git clone`, run `git pull` inside the skill folder. If you uploaded a zip, repeat the steps above with a fresh download.
+If you installed it as a Claude Code plugin, run `/plugin marketplace update cv-review-skill` and then `/plugin update cv-review@cv-review-skill`. If you installed with `git clone`, run `git pull` inside the skill folder. If you uploaded a zip, repeat the steps above with a fresh download.
 
 ## How to use it
 

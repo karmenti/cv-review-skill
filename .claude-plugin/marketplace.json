@@ -1,0 +1,28 @@
+{
+  "name": "cv-review-skill",
+  "owner": {
+    "name": "Karmen Tigas",
+    "url": "https://github.com/karmenti"
+  },
+  "metadata": {
+    "description": "A CV review skill that reads your CV the way a tech recruiter does."
+  },
+  "plugins": [
+    {
+      "name": "cv-review",
+      "description": "Reviews your CV against a job posting and gives ranked, actionable fixes. Works in English and Estonian.",
+      "author": {
+        "name": "Karmen Tigas",
+        "url": "https://github.com/karmenti"
+      },
+      "homepage": "https://github.com/karmenti/cv-review-skill",
+      "repository": "https://github.com/karmenti/cv-review-skill",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["cv", "resume", "job-search", "career", "recruiting"],
+      "source": "./",
+      "strict": false,
+      "skills": ["./"]
+    }
+  ]
+}
