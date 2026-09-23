@@ -72,7 +72,7 @@ A first message can be as short as:
 
 > Here is my CV and the posting for a junior backend role at a logistics company. What should I fix before I apply?
 
-You get back a short verdict, a numbered list of fixes ranked by impact, and an action plan. See the [filled-in example](references/feedback-template.md#example-filled-in) to know what to expect.
+You get back a short verdict, a numbered list of fixes ranked by impact, and an action plan.
 
 The feedback comes in the language your CV is written in. The skill is tested in English and Estonian.
 
