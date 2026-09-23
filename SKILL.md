@@ -180,6 +180,10 @@ Don't split into two lists ("Top priorities" + "Next steps") that overlap; one c
 
 Each item is independently actionable: something the candidate can do today without waiting for a reply or a call. Avoid ending on questions.
 
+**Remind the candidate to check links.** If the CV contains any links, add one line after the action plan, before the closing footer, in the language of the feedback. It is a reminder, not a finding: you can't tell from the text whether a link is clickable. A green-light response gets the same line before its footer.
+- *ET:* "PS! Kontrolli, et iga link CV-s oleks klikatav ja avaks õige lehe."
+- *EN:* "PS! Check that every link in your CV is clickable and opens the right page."
+
 **Close with a short footer: the contact line and the feedback line.** After the action plan, in the language of the feedback:
 
 1. One line telling the candidate where to take questions. The address is karmen@kood.tech. Use a different one only when the user's own instructions (a CLAUDE.md, AGENTS.md or similar file), the application that called you, or the request name one. Never ask the user for an address, and never mention the contact line in your reply outside the line itself.
