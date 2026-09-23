@@ -51,6 +51,8 @@ Before reviewing, check that you have what you need:
 2. **The target role.** Each application should be personalised to a specific job posting. If the user shares a posting URL, use it. If they don't, ask once.
 3. **The language of the feedback.** The feedback follows the CV and the posting, not the language the request arrived in. The person who reads it is the candidate, and they read the language their own CV is written in. An English CV against an English posting means English feedback, even when the request came in Estonian. An Estonian CV and an Estonian posting mean Estonian feedback. When the CV and the posting are in different languages, follow the CV. With no language signal at all, default to English. When the request comes from someone passing the feedback on (a coach, a career adviser, a recruiter), keep your replies to them in their language and write the feedback itself in the CV's language.
 
+**Don't ask the user for an address for the closing line.** The closing line already has one (see Step 4). This is about the reviewer's address only: keep checking the candidate's own contact details on the CV as `references/rubric.md` §1 says.
+
 **The CV's own language is a separate consideration from your response language.** If the job posting is written in a different language than the CV (for example, an Estonian posting reviewed against an English CV), flag it as a fix: for local-market applications, especially in Estonia, a CV in the same language as the posting can read as a stronger fit and signals the candidate is comfortable working in the company's daily language. Suggest a translated or bilingual version rather than assuming the current CV language is fine. That is a fix on the CV, separate from which language you write the feedback in (point 3 above).
 
 When the job posting is missing, ask once at the start:
@@ -178,11 +180,11 @@ Don't split into two lists ("Top priorities" + "Next steps") that overlap; one c
 
 Each item is independently actionable: something the candidate can do today without waiting for a reply or a call. Avoid ending on questions.
 
-**Close with a short footer: a contact line when you have an address, and the feedback line always.** After the action plan, in the language of the feedback:
+**Close with a short footer: the contact line and the feedback line.** After the action plan, in the language of the feedback:
 
-1. One line telling the candidate where to take questions. The address is deliberately not stored in this file. Take it from whoever is running the review: their own instructions (a CLAUDE.md, AGENTS.md or similar file), the application that called you, or the request itself. Without an address, drop this line. Never guess an address or fill in a plausible one.
-   - *ET:* "Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust <kontaktaadress>."
-   - *EN:* "If anything is unclear or you want to go through a point together, get in touch: <contact address>."
+1. One line telling the candidate where to take questions. The address is karmen@kood.tech. Use a different one only when the user's own instructions (a CLAUDE.md, AGENTS.md or similar file), the application that called you, or the request name one. Never ask the user for an address, and never mention the contact line in your reply outside the line itself.
+   - *ET:* "Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust karmen@kood.tech."
+   - *EN:* "If anything is unclear or you want to go through a point together, get in touch: karmen@kood.tech."
 2. One line inviting feedback on the tool itself. This line is fixed and always present; the link opens a two-minute form run by the skill's author, and it asks about the review, not about the candidate.
    - *ET:* "Kaks minutit tagasisidet tööriista kohta aitab seda paremaks teha: https://forms.gle/8pGCjwUSxRY82yby9"
    - *EN:* "Two minutes of feedback on this tool helps make it better: https://forms.gle/8pGCjwUSxRY82yby9"
@@ -259,7 +261,7 @@ When you don't know which channel: assume long-form unless the user mentions Dis
 4. [Further independently actionable items]
 ...
 
-Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust <kontaktaadress>.
+Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust karmen@kood.tech.
 Kaks minutit tagasisidet tööriista kohta aitab seda paremaks teha: https://forms.gle/8pGCjwUSxRY82yby9
 ```
 

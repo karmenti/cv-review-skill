@@ -120,7 +120,7 @@ The feedback comes in the language your CV is written in. The skill is tested in
 
 **Your data.** The skill stores nothing and sends nothing anywhere. Your CV goes to whichever AI tool you run it in, under that tool's privacy terms, same as any other chat.
 
-**Feedback.** Every review ends with a link to a two-minute form about the tool itself. It asks how the review worked for you, not for your CV, and the answers go to the skill's author to improve it.
+**Feedback.** Every review ends with two lines. The first points questions to the author, karmen@kood.tech; if you run the skill for your own candidates, name your address in your instructions or in the request and the skill uses that instead. The second links to a two-minute form about the tool itself. It asks how the review worked for you, not for your CV, and the answers go to the author to improve it.
 
 ## Which model to use
 
@@ -143,7 +143,7 @@ A faster, lighter model still works. Its review tends to be longer and flatter, 
 
 ## A note on examples
 
-Every example in this repo is invented. No real CV, name, or contact detail is used anywhere in it, including the git history.
+Every example in this repo is invented. No real CV, name, or contact detail is used anywhere in it, including the git history. The one real contact detail is the author's address in the closing line.
 
 ## License
 

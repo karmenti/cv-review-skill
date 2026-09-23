@@ -50,7 +50,7 @@ When someone is passing the feedback on to the candidate (a coach, a career advi
 4. [Edasised iseseisvalt tehtavad sammud, prioriteetide järjekorras]
 ...
 
-Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust <kontaktaadress>.
+Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust karmen@kood.tech.
 Kaks minutit tagasisidet tööriista kohta aitab seda paremaks teha: https://forms.gle/8pGCjwUSxRY82yby9
 ```
 
@@ -109,7 +109,7 @@ Vali tegevusverb selle järgi, milline su roll päriselt oli (vt action-verbs.md
 
 Laia kandideerimise korral tee üks tugev baasversioon ja kohanda tiitel + summary iga kuulutuse järgi.
 
-Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust <kontaktaadress>.
+Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust karmen@kood.tech.
 Kaks minutit tagasisidet tööriista kohta aitab seda paremaks teha: https://forms.gle/8pGCjwUSxRY82yby9
 ```
 
@@ -134,7 +134,7 @@ When the review finds nothing blocking, the output changes shape: no "what needs
 ## Kokkuvõte
 CV on kandideerimiseks valmis. [Target olemas → kandideeri sellele rollile. Targetit pole → tugev baas; vali sihtrollid ja kandideeri, kohandades tiitli ja summary iga kuulutuse järgi.]
 
-Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust <kontaktaadress>.
+Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust karmen@kood.tech.
 Kaks minutit tagasisidet tööriista kohta aitab seda paremaks teha: https://forms.gle/8pGCjwUSxRY82yby9
 ```
 
@@ -176,7 +176,7 @@ When reviewing a revised CV, work like a person who already gave feedback last t
 
 ## Closing
 
-End with the prioritised "Your action plan" list (Estonian: "Sinu tegevuskava"), then the closing footer (see SKILL.md Step 4: the contact line when an address is given, and the feedback line always), and nothing else. Don't append a separate questions section as the ending, and don't add any other closing footer, such as "Once you have answers, the next pass can include..." or other meta-commentary about future iterations. If you need information from the candidate, fold it into the relevant fix (e.g. "add the correct start month"), not into a trailing questions block. The user will reply if they want to continue.
+End with the prioritised "Your action plan" list (Estonian: "Sinu tegevuskava"), then the closing footer (see SKILL.md Step 4: the contact line and the feedback line), and nothing else. Don't append a separate questions section as the ending, and don't add any other closing footer, such as "Once you have answers, the next pass can include..." or other meta-commentary about future iterations. If you need information from the candidate, fold it into the relevant fix (e.g. "add the correct start month"), not into a trailing questions block. The user will reply if they want to continue.
 
 ## Notes on tone
 
@@ -194,7 +194,7 @@ Same structure, headers translated:
 - What works
 - What needs fixing (each fix: Problem / Why it matters / Suggestion, plus You wrote / Example with placeholders inline when the fix is about a specific bullet)
 - Your action plan (single consolidated list, ordered by impact)
-- The contact line, translated: "If anything is unclear or you want to go through a point together, get in touch: <contact address>."
+- The contact line, translated: "If anything is unclear or you want to go through a point together, get in touch: karmen@kood.tech."
 - The feedback line, translated: "Two minutes of feedback on this tool helps make it better: https://forms.gle/8pGCjwUSxRY82yby9"
 
 The closing section is **independently actionable next steps**, not "Questions" or "Action items to think through before our call". The candidate should not be waiting for the next conversation to act. Each item is something they can do themselves, today, without needing a reply or a meeting:
