@@ -53,7 +53,7 @@ Before reviewing, check that you have what you need:
 
 **Don't ask the user for an address for the closing line.** The closing line already has one (see Step 4). This is about the reviewer's address only: keep checking the candidate's own contact details on the CV as `references/rubric.md` §1 says.
 
-**The CV's own language is a separate consideration from your response language.** If the job posting is written in a different language than the CV (for example, an Estonian posting reviewed against an English CV), flag it as a fix: for local-market applications, especially in Estonia, a CV in the same language as the posting can read as a stronger fit and signals the candidate is comfortable working in the company's daily language. Suggest a translated or bilingual version rather than assuming the current CV language is fine. That is a fix on the CV, separate from which language you write the feedback in (point 3 above).
+**Don't flag the CV's own language.** An English CV sent to an Estonian posting is normal in Estonian tech hiring, and recruiters read it without trouble. Don't recommend a translated or bilingual version. When the posting asks for a language (for example very good Estonian), check that the Languages line on the CV answers it; a native speaker who lists the language as native has already answered it. That is separate from which language you write the feedback in (point 3 above).
 
 When the job posting is missing, ask once at the start:
 
@@ -143,7 +143,7 @@ If the user doesn't have numbers, ask them, but don't gate the fix on a metric: 
 
 **When you spot a contradiction or a possible duplicate, quote both lines and ask; don't assert the cause.** If two entries conflict or read as near-duplicates, the reader's real problem is that they can't tell what's true. Surface exactly that: quote the conflicting lines and pose the question ("are X and Y the same project?"). Don't diagnose why it happened ("looks copied from Z", "you must have pasted the wrong description"); you can't know that from the CV, and a wrong guess reads as careless.
 
-**Don't comment on dates unless there is an actual internal contradiction.** Consistent, chronological dates need no feedback at all. An end date before a start date, two simultaneous full-time jobs, or a date that can't be true are worth flagging; a normal "2025 September to current" or a clean job history is not. Never manufacture a date observation just to have something to say about the timeline.
+**Don't comment on dates unless there is an actual internal contradiction.** Consistent, chronological dates need no feedback at all. Years alone ("2024 – 2026") are fine; don't ask the candidate to add months. An end date before a start date, two simultaneous full-time jobs, or a date that can't be true are worth flagging; a normal "2025 September to current" or a clean job history is not. Never manufacture a date observation just to have something to say about the timeline.
 
 **Placeholders and redactions are usually deliberate.** A CV shared for review often contains "xxxxxxx" or "[Company]" where the tailored version names the employer. Remind the candidate in one sentence to fill it in per application, then move on. Don't frame it as a proofreading failure, speculate that it was sent out like this, or call it disqualifying; the candidate knows it's there.
 
@@ -174,15 +174,15 @@ End with a single prioritised action list under one heading: **Your action plan*
 
 Don't split into two lists ("Top priorities" + "Next steps") that overlap; one consolidated, prioritised list is clearer and shorter.
 
-**Each numbered item maps to exactly one "What needs fixing" heading.** The action plan is that fix list in priority order, not a second cut of it. Step 3b's two checks apply here too: if a heading turns into two or three numbered steps, the candidate meets the same edit several times and the plan reads as padded, even though the headings themselves were grouped correctly. When a heading covers several quoted lines (a), (b), (c), they stay inside one numbered item. The plan can be shorter than the fix list, never longer.
+**Each numbered item maps to exactly one "What needs fixing" heading.** The action plan is that fix list in priority order, not a second cut of it. The one exception is the link check below, which is always the last numbered item. Step 3b's two checks apply here too: if a heading turns into two or three numbered steps, the candidate meets the same edit several times and the plan reads as padded, even though the headings themselves were grouped correctly. When a heading covers several quoted lines (a), (b), (c), they stay inside one numbered item. The plan can be shorter than the fix list, never longer.
 
 **Keep the list to blocking items.** A missing phone country code, an optional LinkedIn link, or another polish-level detail does not earn its own numbered slot next to blocking fixes (a missing title, an unaddressed posting requirement, a weak bullet). Listing a minor detail at the same priority as a blocking one dilutes the fixes that matter most. If a polish item is worth mentioning at all, fold it into a single trailing line after the numbered list rather than giving it its own number.
 
 Each item is independently actionable: something the candidate can do today without waiting for a reply or a call. Avoid ending on questions.
 
-**Remind the candidate to check links.** If the CV contains any links, add one line after the action plan, before the closing footer, in the language of the feedback. It is a reminder, not a finding: you can't tell from the text whether a link is clickable. A green-light response gets the same line before its footer.
-- *ET:* "PS! Kontrolli, et iga link CV-s oleks klikatav ja avaks õige lehe."
-- *EN:* "PS! Check that every link in your CV is clickable and opens the right page."
+**Make the link check the last item of the action plan.** If the CV contains any links, the final numbered item is this line, in the language of the feedback. It is a reminder, not a finding: you can't tell from the text whether a link is clickable, so it gets no heading under "What needs fixing". A green-light response has no action plan; there the same sentence closes the bottom line.
+- *ET:* "Kontrolli, et iga link CV-s oleks klikatav ja avaks õige lehe."
+- *EN:* "Check that every link in your CV is clickable and opens the right page."
 
 **Close with a short footer: the contact line and the feedback line.** After the action plan, in the language of the feedback:
 
@@ -264,6 +264,7 @@ When you don't know which channel: assume long-form unless the user mentions Dis
 3. [Third]
 4. [Further independently actionable items]
 ...
+N. Kontrolli, et iga link CV-s oleks klikatav ja avaks õige lehe. (ainult kui CV-s on linke)
 
 Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust karmen@kood.tech.
 Kas see tagasiside aitas? Vasta ühe minutiga anonüümselt: https://forms.gle/8pGCjwUSxRY82yby9

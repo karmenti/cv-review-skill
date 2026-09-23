@@ -61,7 +61,7 @@ Small inconsistencies in how //kood is written undercut the CV, especially becau
 ## How to write //kood on a CV
 
 - Use the full campus name (kood/Jõhvi, kood/Võru, kood/Järva).
-- List dates as month + year, not just year. Programs run 12 to 15 months, so the dates should reflect that.
+- Years are enough for the dates ("2024 – 2026"). Don't ask the candidate to add months.
 - Don't write "Participated in". The school is project-driven; the verb should match. Suggest stronger verbs from `action-verbs.md` (Built, Completed, Delivered).
 - Include a short factual note about the program type if there's room: project-based, peer-learning, team projects. This educates the recruiter without hyping.
 - Bring objective markers if the candidate has them: completed all core modules, top of cohort, specific project tracks. Don't invent any.

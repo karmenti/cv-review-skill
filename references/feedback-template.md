@@ -49,8 +49,7 @@ When someone is passing the feedback on to the candidate (a coach, a career advi
 3. [Kolmas]
 4. [Edasised iseseisvalt tehtavad sammud, prioriteetide järjekorras]
 ...
-
-PS! Kontrolli, et iga link CV-s oleks klikatav ja avaks õige lehe.
+N. Kontrolli, et iga link CV-s oleks klikatav ja avaks õige lehe. (viimane punkt, kui CV-s on linke)
 
 Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust karmen@kood.tech.
 Kas see tagasiside aitas? Vasta ühe minutiga anonüümselt: https://forms.gle/8pGCjwUSxRY82yby9
@@ -60,9 +59,11 @@ Iga pealkiri nimetab ühe leiu. Kui kaks pealkirja paluvad kandidaadilt sama lii
 
 Järjesta alati mõju järgi: tähtsaimad parandused esikohal. Kandidaat peab saama listi ülevalt alla töödelda. Ära lisa lõppu selgitust "järjekord on mõju järgi"; järjekord ise on signaal.
 
-## Example (filled in)
+## Example (filled in, invented candidate)
 
-A career-changer (logistics coordinator moving toward developer roles) shares a CV. They mentioned applying to junior backend roles broadly.
+**This example is made up to show the format. It is not the user's request, and none of its details describe the CV or posting you are reviewing.** Take the role, company and candidate only from the user's own message, CV and posting. Don't compare the real posting against this example or mention the example in your response.
+
+The invented candidate: a logistics coordinator moving toward developer roles, applying to junior backend roles broadly, with no specific posting.
 
 ```
 ## Esmamulje (30-sekundi test)
@@ -108,10 +109,9 @@ Vali tegevusverb selle järgi, milline su roll päriselt oli (vt action-verbs.md
 1. Kirjuta CV ülaosa ümber: tiitliks roll, kuhu kandideerid, ja selle alla 2-3 rida (kuhu lähed, mis on tõenduseks, mida vana taustast kaasa tood).
 2. Lisa igale projektile tehnoloogia, sinu osa ja tulemus; link, kui repo on avalik.
 3. Vali igale läbirääkimiste-reale tegevusverb oma tegeliku rolli järgi (juhtisid / koordineerisid / panustasid) ja lisa ulatus + tulemus.
+4. Kontrolli, et iga link CV-s oleks klikatav ja avaks õige lehe.
 
 Laia kandideerimise korral tee üks tugev baasversioon ja kohanda tiitel + summary iga kuulutuse järgi.
-
-PS! Kontrolli, et iga link CV-s oleks klikatav ja avaks õige lehe.
 
 Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust karmen@kood.tech.
 Kas see tagasiside aitas? Vasta ühe minutiga anonüümselt: https://forms.gle/8pGCjwUSxRY82yby9
@@ -136,7 +136,7 @@ When the review finds nothing blocking, the output changes shape: no "what needs
 - [1-2 mittekohustuslikku teravdust; märgi selgelt, et CV töötab ka ilma. Jäta sektsioon ära, kui pole ühtegi.]
 
 ## Kokkuvõte
-CV on kandideerimiseks valmis. [Target olemas → kandideeri sellele rollile. Targetit pole → tugev baas; vali sihtrollid ja kandideeri, kohandades tiitli ja summary iga kuulutuse järgi.]
+CV on kandideerimiseks valmis. [Target olemas → kandideeri sellele rollile. Targetit pole → tugev baas; vali sihtrollid ja kandideeri, kohandades tiitli ja summary iga kuulutuse järgi.] [Kui CV-s on linke: Kontrolli, et iga link CV-s oleks klikatav ja avaks õige lehe.]
 
 Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust karmen@kood.tech.
 Kas see tagasiside aitas? Vasta ühe minutiga anonüümselt: https://forms.gle/8pGCjwUSxRY82yby9
@@ -180,7 +180,7 @@ When reviewing a revised CV, work like a person who already gave feedback last t
 
 ## Closing
 
-End with the prioritised "Your action plan" list (Estonian: "Sinu tegevuskava"), the link reminder if the CV has links (see SKILL.md Step 4), then the closing footer (see SKILL.md Step 4: the contact line and the feedback line), and nothing else. Don't append a separate questions section as the ending, and don't add any other closing footer, such as "Once you have answers, the next pass can include..." or other meta-commentary about future iterations. If you need information from the candidate, fold it into the relevant fix (e.g. "add the correct start month"), not into a trailing questions block. The user will reply if they want to continue.
+End with the prioritised "Your action plan" list (Estonian: "Sinu tegevuskava"), whose last item is the link check if the CV has links (see SKILL.md Step 4), then the closing footer (see SKILL.md Step 4: the contact line and the feedback line), and nothing else. Don't append a separate questions section as the ending, and don't add any other closing footer, such as "Once you have answers, the next pass can include..." or other meta-commentary about future iterations. If you need information from the candidate, fold it into the relevant fix (e.g. "add the correct start month"), not into a trailing questions block. The user will reply if they want to continue.
 
 ## Notes on tone
 
@@ -197,8 +197,7 @@ Same structure, headers translated:
 - 30-second impression
 - What works
 - What needs fixing (each fix: Problem / Why it matters / Suggestion, plus You wrote / Example with placeholders inline when the fix is about a specific bullet)
-- Your action plan (single consolidated list, ordered by impact)
-- The link reminder, if the CV has links: "PS! Check that every link in your CV is clickable and opens the right page."
+- Your action plan (single consolidated list, ordered by impact; if the CV has links, the last item is "Check that every link in your CV is clickable and opens the right page.")
 - The contact line, translated: "If anything is unclear or you want to go through a point together, get in touch: karmen@kood.tech."
 - The feedback line, translated: "Did this review help? Tell us in one minute, anonymously: https://forms.gle/8pGCjwUSxRY82yby9"
 

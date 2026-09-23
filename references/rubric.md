@@ -63,7 +63,7 @@ If you read the summary and it could fit any of 100 other candidates, it doesn't
 ## 4. Experience
 
 Each role should have:
-- Company name + role + dates (month + year, not just year)
+- Company name + role + dates (years are enough)
 - 3-6 bullets per recent role; fewer for older roles
 - Each bullet uses STAR (see star-method.md): what was the situation, what did *you* specifically do, what was the result
 
@@ -102,7 +102,7 @@ For tech roles, organize by category:
 - For 3+ years experience: below experience, brief
 - For 10+ years: one line, just school + degree + year
 
-//kood students: list with the specific campus (kood/Jõhvi, kood/Võru, kood/Järva), program name, and dates as month + year. A short factual note about the program type (project-based, peer-learning, team projects) educates recruiters who don't know the school. Don't lean on the school name as a credential; the projects carry the weight. See `kood-context.md` for full guidance.
+//kood students: list with the specific campus (kood/Jõhvi, kood/Võru, kood/Järva), program name, and dates (years are enough). A short factual note about the program type (project-based, peer-learning, team projects) educates recruiters who don't know the school. Don't lean on the school name as a credential; the projects carry the weight. See `kood-context.md` for full guidance.
 
 ## 7. Projects
 
