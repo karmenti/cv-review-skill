@@ -51,7 +51,7 @@ When someone is passing the feedback on to the candidate (a coach, a career advi
 ...
 N. Kontrolli, et iga link CV-s oleks klikatav ja avaks õige lehe. (viimane punkt, kui CV-s on linke)
 
-Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust karmen@kood.tech.
+Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust cvskill@kood.tech.
 Kas see tagasiside aitas? Vasta ühe minutiga anonüümselt: https://forms.gle/8pGCjwUSxRY82yby9
 ```
 
@@ -113,7 +113,7 @@ Vali tegevusverb selle järgi, milline su roll päriselt oli (vt action-verbs.md
 
 Laia kandideerimise korral tee üks tugev baasversioon ja kohanda tiitel + summary iga kuulutuse järgi.
 
-Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust karmen@kood.tech.
+Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust cvskill@kood.tech.
 Kas see tagasiside aitas? Vasta ühe minutiga anonüümselt: https://forms.gle/8pGCjwUSxRY82yby9
 ```
 
@@ -138,7 +138,7 @@ When the review finds nothing blocking, the output changes shape: no "what needs
 ## Kokkuvõte
 CV on kandideerimiseks valmis. [Target olemas → kandideeri sellele rollile. Targetit pole → tugev baas; vali sihtrollid ja kandideeri, kohandades tiitli ja summary iga kuulutuse järgi.] [Kui CV-s on linke: Kontrolli, et iga link CV-s oleks klikatav ja avaks õige lehe.]
 
-Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust karmen@kood.tech.
+Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust cvskill@kood.tech.
 Kas see tagasiside aitas? Vasta ühe minutiga anonüümselt: https://forms.gle/8pGCjwUSxRY82yby9
 ```
 
@@ -200,7 +200,7 @@ Same structure, headers translated:
 - What works
 - What needs fixing (each fix: Problem / Why it matters / Suggestion, plus You wrote / Example with placeholders inline when the fix is about a specific bullet)
 - Your action plan (single consolidated list, ordered by impact; if the CV has links, the last item is "Check that every link in your CV is clickable and opens the right page.")
-- The contact line, translated: "If anything is unclear or you want to go through a point together, get in touch: karmen@kood.tech."
+- The contact line, translated: "If anything is unclear or you want to go through a point together, get in touch: cvskill@kood.tech."
 - The feedback line, translated: "Did this review help? Tell us in one minute, anonymously: https://forms.gle/8pGCjwUSxRY82yby9"
 
 The closing section is **independently actionable next steps**, not "Questions" or "Action items to think through before our call". The candidate should not be waiting for the next conversation to act. Each item is something they can do themselves, today, without needing a reply or a meeting:

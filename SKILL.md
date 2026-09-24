@@ -188,9 +188,9 @@ Each item is independently actionable: something the candidate can do today with
 
 **Close with a short footer: the contact line and the feedback line.** After the action plan, in the language of the feedback:
 
-1. One line telling the candidate where to take questions. The address is karmen@kood.tech. Use a different one only when the user's own instructions (a CLAUDE.md, AGENTS.md or similar file), the application that called you, or the request name one. Never ask the user for an address, and never mention the contact line in your reply outside the line itself.
-   - *ET:* "Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust karmen@kood.tech."
-   - *EN:* "If anything is unclear or you want to go through a point together, get in touch: karmen@kood.tech."
+1. One line telling the candidate where to take questions. The address is cvskill@kood.tech. Use a different one only when the user's own instructions (a CLAUDE.md, AGENTS.md or similar file), the application that called you, or the request name one. Never ask the user for an address, and never mention the contact line in your reply outside the line itself.
+   - *ET:* "Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust cvskill@kood.tech."
+   - *EN:* "If anything is unclear or you want to go through a point together, get in touch: cvskill@kood.tech."
 2. One line inviting feedback on the tool itself. This line is fixed and always present; the link opens a one-minute anonymous form run by the skill's author, and it asks about the review, not about the candidate.
    - *ET:* "Kas see tagasiside aitas? Vasta ühe minutiga anonüümselt: https://forms.gle/8pGCjwUSxRY82yby9"
    - *EN:* "Did this review help? Tell us in one minute, anonymously: https://forms.gle/8pGCjwUSxRY82yby9"
@@ -268,7 +268,7 @@ When you don't know which channel: assume long-form unless the user mentions Dis
 ...
 N. Kontrolli, et iga link CV-s oleks klikatav ja avaks õige lehe. (ainult kui CV-s on linke)
 
-Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust karmen@kood.tech.
+Kui midagi jääb segaseks või tahad mõne punkti koos läbi käia, võta ühendust cvskill@kood.tech.
 Kas see tagasiside aitas? Vasta ühe minutiga anonüümselt: https://forms.gle/8pGCjwUSxRY82yby9
 ```
 
